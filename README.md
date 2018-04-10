@@ -1,2 +1,0 @@
-# demo-Angularjs
-demo Angularjs
